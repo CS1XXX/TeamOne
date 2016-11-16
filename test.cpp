@@ -22,3 +22,5 @@ int main()
   cin.get();    // wait for a keypress
   // b_file is closed implicitly here
 }
+
+1 comment 
