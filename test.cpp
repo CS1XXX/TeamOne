@@ -20,11 +20,12 @@ int main()
   //Should output 'this'
   cout<< str <<"\n";
   cin.get();    // wait for a keypress
-  // b_file is closed implicitly here
+  // b_file is closed implicitly hereas
+  cout << "test" << "\n";
+  
+  cin.get();
+  
+  cin.get();
+  
+  cout << "Test" << "\n"
 }
-
-1 comment 
-
-test 1 2 3
-
-write something ehre 
